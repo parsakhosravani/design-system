@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/person-moan-rjhiu.blank-ly2wev93",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 1Xi2juxDnPKEmY4XdxAp --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
